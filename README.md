@@ -6,7 +6,7 @@ Situato in un’epoca temporale fittizia in cui la terra si sta ancora ripristin
 Per anni e anni, la razza umana ha dovuto combattere e sopravvivere in una stazione spaziale, senza peró sapere cosa gli avrebbe aspettato sulla loro terra natia: piante geneticamente modificate, animali e umani ormai diventati mostri sono pronti a mettere in pericolo “I 10” e cambiargli la vita completamente.
 
 ### Link Download Gioco:
-https://www.mediafire.com/file/yxt1pzn10md2m37/SteelThumbs.zip/file
+https://www.mediafire.com/file/hynnd5hgvzlxmtq/Build.zip/file
 
 ### Trailer Gioco: 
 https://www.mediafire.com/file/qfxthsh59eoz7f3/Trailer.rar/file
