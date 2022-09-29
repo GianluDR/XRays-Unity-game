@@ -1,4 +1,4 @@
-# SVGProjects
+# X-Rays Project
 
 ### Pitch:
 X-Rays é un’Action-Adventure Dystopian RPG, con l’intento di unire l’emozione della sopravvivenza con la curiositá, innata in ognuno di noi, di esplorare e interagire con vari personaggi durante tutto il viaggio.
