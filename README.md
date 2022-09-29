@@ -10,6 +10,7 @@ https://www.mediafire.com/file/hynnd5hgvzlxmtq/Build.zip/file
 
 ### Trailer Gioco: 
 https://www.mediafire.com/file/qfxthsh59eoz7f3/Trailer.rar/file
+https://www.youtube.com/watch?v=TCWWp8SQUlM
 
 ### Presentazione PPT Gioco:
 https://www.mediafire.com/file/r5gzxpxpegyzcsc/X-Rays_Presentazione_Fiera.pptx/file
