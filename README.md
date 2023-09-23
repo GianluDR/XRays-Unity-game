@@ -1,5 +1,5 @@
 # X-Rays Project
-Video Game Project - X-Rays: A Dystopian RPG Adventure.
+University Group Project: Unity Video Game - X-Rays: A Dystopian RPG Adventure.
 
 ### Pitch:
 X-Rays é un’Action-Adventure Dystopian RPG, con l’intento di unire l’emozione della sopravvivenza con la curiositá, innata in ognuno di noi, di esplorare e interagire con vari personaggi durante tutto il viaggio.
