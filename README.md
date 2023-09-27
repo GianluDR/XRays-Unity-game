@@ -11,8 +11,7 @@ X-Rays is an Action-Adventure Dystopian RPG, aiming to combine the thrill of sur
 ### Link Game Download:
 https://www.mediafire.com/file/hynnd5hgvzlxmtq/Build.zip/file
 
-### Game Trailer Download+Youtube: 
-https://www.mediafire.com/file/qfxthsh59eoz7f3/Trailer.rar/file
+### Game Trailer Download+Youtube:
 https://www.youtube.com/watch?v=TCWWp8SQUlM
 
 ### Game Presentation PPT(Language: Italian):
