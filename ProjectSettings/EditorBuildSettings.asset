@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: aa9e1702b0554bb4ba4b1c3ec2ac0191
+  - enabled: 1
+    path: Assets/Scenes/GameStart.unity
+    guid: 5ee622941fd01c643b9855fec159155b
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: de459419223bf3641ba83ef5ac2c06c0
+  - enabled: 1
+    path: Assets/Scenes/Lake.unity
+    guid: 0bfe04eef4e5f37409a3fae7456f5e79
+  - enabled: 1
+    path: Assets/Scenes/Military zone.unity
+    guid: 5c6cff211dfdf8042b339fd3a95200e1
+  - enabled: 1
+    path: Assets/Scenes/serra.unity
+    guid: 0ee8ba87981c08b4eabbad524f37c0aa
+  - enabled: 1
+    path: Assets/Scenes/Labirint.unity
+    guid: eb517a6bb7ec04d409a86b402676b93c
+  - enabled: 1
+    path: Assets/Scenes/Frontier.unity
+    guid: adb039c23125c9242a91107f9d2282f6
+  - enabled: 1
+    path: Assets/Scenes/EndCredits.unity
+    guid: 471f8592563268a408f27e15d1174134
+  m_configObjects: {}

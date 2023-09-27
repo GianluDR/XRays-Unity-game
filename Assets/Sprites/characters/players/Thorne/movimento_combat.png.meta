@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: a47d9e5c53ffd5346b3114ba73987949
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: movimento_combat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 57
+        height: 47
+      alignment: 9
+      pivot: {x: 0.45614034, y: 0.5319149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc48ebca5d2e69a49a9fa4599fcfd469
+      internalID: -675836715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimento_combat_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 249
+        width: 57
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6315789, y: 0.5106383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25eb110ab71997c4489cbd281c5681ce
+      internalID: 1271401220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimento_combat_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 249
+        width: 57
+        height: 47
+      alignment: 9
+      pivot: {x: 0.8245614, y: 0.5319149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7525e0f7b93dfd43b2cfeae0ab4b06b
+      internalID: -1097889860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimento_combat_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 185
+        width: 57
+        height: 47
+      alignment: 9
+      pivot: {x: 0.1754386, y: 0.5106383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e088b5b41baae4e4c819790cbea2fdca
+      internalID: -584142848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimento_combat_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 185
+        width: 57
+        height: 47
+      alignment: 9
+      pivot: {x: 0.31578946, y: 0.5106383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743f934edf7683a4abb916d34c3b3b0a
+      internalID: 1773982656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimento_combat_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 185
+        width: 57
+        height: 47
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.5319149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b80cfa22cddbb4e9060987683a4c4a
+      internalID: 778300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimento_combat_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 99
+        width: 35
+        height: 71
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.85915494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27117f4ee514714d9124b2674a5cff7
+      internalID: -1737407389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimento_combat_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 100
+        width: 35
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.74647886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c29e2c461376a4ab8cc838c3b17df4
+      internalID: 1779030241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimento_combat_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 100
+        width: 35
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.6619718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c352e5082a9f0e43bd38c88e87dc922
+      internalID: -1879732738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimento_combat_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 35
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.14492753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352f1e3246bc6814e8762c4ff27921c8
+      internalID: -106028342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimento_combat_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 12
+        width: 35
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.26086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985f257fd631dec409937dcc0f86c442
+      internalID: -2038784392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimento_combat_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 12
+        width: 35
+        height: 69
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.3188406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9162bc751ab944387209d193f43a88
+      internalID: -1107064399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      movimento_combat_0: -675836715
+      movimento_combat_2: -1097889860
+      movimento_combat_4: 1773982656
+      movimento_combat_5: 778300356
+      movimento_combat_1: 1271401220
+      movimento_combat_8: -1879732738
+      movimento_combat_3: -584142848
+      movimento_combat_10: -2038784392
+      movimento_combat_7: 1779030241
+      movimento_combat_9: -106028342
+      movimento_combat_11: -1107064399
+      movimento_combat_6: -1737407389
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

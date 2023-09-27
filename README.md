@@ -8,11 +8,10 @@ Per anni e anni, la razza umana ha dovuto combattere e sopravvivere in una stazi
 
 X-Rays is an Action-Adventure Dystopian RPG, aiming to combine the thrill of survival with the curiosity, innate in everyone, to explore and interact with various characters throughout the journey. Set in a fictional time epoch in which the earth is still recovering from its first global nuclear conflict, players take control of ten survivors, originally prisoners, sent to earth as "human probes," who must uncover the conspiracies behind all that has happened and the devastated world in which they must now live. For years and years, the human race has had to fight and survive in a space station, but without knowing what would await them on their homeland: genetically modified plants, animals and humans now turned monsters are ready to endanger "The 10" and change their lives completely.
 
-### Link Game Download:
-https://www.mediafire.com/file/hynnd5hgvzlxmtq/Build.zip/file
+### Game Download:
+Download the build folder in the repository and exec steelthumbs.exe
 
-### Game Trailer Download+Youtube:
+### Game Trailer Youtube:
 https://www.youtube.com/watch?v=TCWWp8SQUlM
 
-### Game Presentation PPT(Language: Italian):
-https://www.mediafire.com/file/r5gzxpxpegyzcsc/X-Rays_Presentazione_Fiera.pptx/file
+Further insights can be found in the two pdf files(italian language)
